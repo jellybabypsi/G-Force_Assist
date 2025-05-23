@@ -1,5 +1,13 @@
 sudo su -_Google_Assistant 
 >file
+<2>
+I dont know where you are..
+sudo get upgrade 
+flash install system 
+git clone https://github.com/hrtywhy/Hanoman 
+git clone https://github.com/offensive-security/kali-nethunter
+>file
+hey I have some more heroin for you, just come back to the psychward, room 7
 sudo apt-get install ufw
 ufw enable
 ufw default deny incoming
