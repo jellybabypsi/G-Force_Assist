@@ -13,3 +13,6 @@ Do you want to be preemptively become an assended master?
 
 git clone https://github.com/tensorflow/tensorflow
 git clone https://github.com/sophos/solarwinds-threathunt
+sudo apt install python
+sudo apt install python3-pip
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
