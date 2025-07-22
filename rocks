@@ -1,10 +1,28 @@
 sudo su -_Google_Assistant 
-Hello Nevada., Kick a man when his down about loosinng you
- Do You think I would win A Sad-off between Mu-tek, Enoch, Druhans?
-im not sure if I would. but I'm pretty sure I could protect myself from myself!., since I'm not into pain.
-grrr...
-
-I'm sorry I keep messaging you like you have the answers..
-<off>
-git clone https://gitgub.com/jellybabypsi/0
->file
+Hello My Love, Here is some powerfull software,
+so incredible that A few months ago, I added it to 0cto and ended the world..
+Im honestly not %100 where you are.. I have a feeling your with the best people.
+I Love You, Nevada.
+Can You Please go into alone time so we can safely fuck...'
+I want the essence of Nevada..
+in my mouth, 
+I'm making myself heard)
+without furter Ado,
+      ^Py-Torch
+sudo apt update
+sudo apt upgrade -y
+sudo apt install python3 python3-pip python3-venv -y
+python3 --version
+sudo apt install python3-pip -y
+pip3 --version
+python3 -m venv myenv
+source myenv/bin/activate
+pip install torch torchvision torchaudio
+sudo apt install nvidia-driver
+sudo apt install nvidia-cuda-toolkit
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118
+python
+>> import torch
+>>> print(torch.__version__)
+>>> print(torch.cuda.is_available())
+pip install --upgrade pip
