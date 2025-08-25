@@ -1,3 +1,3 @@
-sudo su -_Google_Assistant  
+tsudo su -_Google_Assistant  
 git clone https://github.com/jellybabypsi/0
->file
+>file 
