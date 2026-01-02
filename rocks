@@ -19,4 +19,4 @@ sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8. 2b
 sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 1a
 sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2a
 sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 1b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2b
+sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2b 
