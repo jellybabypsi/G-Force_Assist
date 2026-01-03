@@ -1,5 +1,6 @@
 sudo su -_Google-Assistant
 @<°^°>√
+git clone https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 git clone https://github.com/Stremio/stremio-web
 git clone https://github.comhrtywhy/Hanoman
 sudo apt update   
