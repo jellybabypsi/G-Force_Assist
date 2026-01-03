@@ -2,7 +2,6 @@ sudo su -_Google-Assistant
 @<°^°>√
 git clone https://github.com/Stremio/stremio-web
 git clone https://github.comhrtywhy/Hanoman
-git clone https://GitHub.com/jellybabypsi/system7.1
 sudo apt update   
 sudo apt install extundelete
 sudo umount /dev/sdXn
